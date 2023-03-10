@@ -1,10 +1,8 @@
-# <p align="center">30 DAYS OF GOLANG</p>
+# <p align="">30 DAYS OF GOLANG</p>
 
-## <p align="center"> Let's learn Golang in 30 days</p>
+## <p align=""> Let's learn Golang in 30 days</p>
 
-<p align="center">
-<img src=" https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif" alt="Golang Gif"/>
-</p>
+<img src=" https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif" alt="Golang Gif" align="center"/>
 
 ### [Variables and Types](./day-1/variables_and_types.go)
 
