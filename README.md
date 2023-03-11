@@ -10,8 +10,8 @@
 
 | Day | Topic | Link |
 | --- | --- | --- |
-| 1 | Variables and Types | [Link](./day-1/variables_and_types.go) | - |
-| 2 | Control Structures - If/Else Statements | - |
+| 1 | Variables and Types | [Link](./day-1_variables_and_types/main.go) |
+| 2 | Control Structures - If/Else Statements | [Link](./day-2_control_structures/main.go) |
 | 3 | Loops - For and While loops | - |
 | 4 | Functions - Basic Syntax | - |
 | 5 | Functions - Multiple return values | - |
