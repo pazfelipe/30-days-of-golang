@@ -12,7 +12,7 @@
 | --- | --- | --- |
 | 1 | Variables and Types | [Link](./day-1_variables_and_types/main.go) |
 | 2 | Control Structures - If/Else Statements | [Link](./day-2_control_structures/main.go) |
-| 3 | Loops - For and While loops | - |
+| 3 | Loops - For and While loops | [Link](day-3_loops_for_while/main.go) |
 | 4 | Functions - Basic Syntax | - |
 | 5 | Functions - Multiple return values | - |
 | 6 | Arrays and Slices | - |
