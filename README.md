@@ -2,8 +2,8 @@
 
 ## <p align="center"> Let's learn Golang in 30 days</p>
 
-<p align="">
-<img src="https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif" alt="Golang Gif" align="center" width="450"/>
+<p align="center">
+<img src="https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif" alt="Golang Gif" align="center" width="350"/>
 </p>
 
 ### Topics
@@ -14,7 +14,7 @@
 | 2 | Control Structures - If/Else Statements | [Link](./day-2_control_structures/main.go) |
 | 3 | Loops - For and While loops | [Link](day-3_loops_for_while/main.go) |
 | 4 | Functions - Basic Syntax | [Link](day-4_functions_basic_syntax/main.go) |
-| 5 | Functions - Multiple return values | - |
+| 5 | Functions - Multiple return values | [Link](day-5_functions_multiple_return_values/main.go) |
 | 6 | Arrays and Slices | - |
 | 7 | Maps and Structs | - |
 | 8 | Pointers | - |
