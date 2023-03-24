@@ -15,7 +15,7 @@
 | 3 | Loops - For and While loops | [Link](day-3_loops_for_while/main.go) |
 | 4 | Functions - Basic Syntax | [Link](day-4_functions_basic_syntax/main.go) |
 | 5 | Functions - Multiple return values | [Link](day-5_functions_multiple_return_values/main.go) |
-| 6 | Arrays and Slices | [Link](day-day-6_arrays_slices/main.go) |
+| 6 | Arrays and Slices | [Link](day-6_arrays_slices/main.go) |
 | 7 | Maps and Structs | - |
 | 8 | Pointers | - |
 | 9 | Interfaces | - |
