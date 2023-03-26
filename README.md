@@ -16,7 +16,7 @@
 | 4 | Functions - Basic Syntax | [Link](day-4_functions_basic_syntax/main.go) | - |
 | 5 | Functions - Multiple return values | [Link](day-5_functions_multiple_return_values/main.go) | - |
 | 6 | Arrays and Slices | [Link](day-6_arrays_slices/main.go) | [Arrays](https://go.dev/doc/effective_go#arrays) [Slices](https://go.dev/blog/slices-intro) |
-| 7 | Maps and Structs | [Link](day7_maps_structs/main.go) | [Maps](https://go.dev/doc/effective_go#maps) |
+| 7 | Maps and Structs | [Link](day-7_maps_structs/main.go) | [Maps](https://go.dev/doc/effective_go#maps) |
 | 8 | Pointers | - | - |
 | 9 | Interfaces | - | - |
 | 10 | Concurrency - Goroutines and Channels | - | - |
