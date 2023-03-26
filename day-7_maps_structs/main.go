@@ -34,6 +34,4 @@ func main() {
 
 	elem, ok = attend["Bob"]
 	fmt.Println(elem, ok)
-
-	fmt.Println(&attend)
 }
